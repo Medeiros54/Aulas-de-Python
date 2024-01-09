@@ -1,3 +1,4 @@
+
 #Coletar dados do usuário
 
 nome = input('Qual o seu nome? ')
