@@ -27,3 +27,6 @@
 #print(True and False and True)
 #print(True and 0 and True)
 
+mensagem = 'e ai, cheguei.'
+nova_mensagem = mensagem.upper()
+print(nova_mensagem)
