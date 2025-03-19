@@ -4,7 +4,7 @@
     "explorer.compactFolders": false,
     "workbench.iconTheme": "material-icon-theme",
     "editor.fontSize": 18,
-    "workbench.colorTheme": "Bearded Theme Black & Diamond",
+    "workbench.colorTheme": "Bearded Theme Arc Reversed",
     "code-runner.executorMap": {
         "python": "clear ; python -u",
     },
