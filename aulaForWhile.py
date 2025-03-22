@@ -39,3 +39,7 @@ for cliente in clientes:
 
 print("Clientes com mais de 30 anos:")
 print(clientes_acima_30)
+
+
+
+# While: Se usa para executar uma condição ENQUANTO algo acontecer.

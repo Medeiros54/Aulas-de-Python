@@ -43,7 +43,7 @@ programadores.insert(1, 'Rafael') <- Rafael será colocado no índice 1.
                          0          1         2           3        4.      5
 print(programadores) # ['Victor', 'Rafael', 'Juliana', 'Samuel', 'Caio', 'Luana']
 
-
+____________________________________________________________________________________________________________________________
 Remove:
 
 Podemos remover diretamente usando o programadores.remove('Victor')

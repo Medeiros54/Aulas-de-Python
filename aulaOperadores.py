@@ -72,7 +72,7 @@ Vejamos com mais detalhes o uso dos operadores de identidade:
 
 """
 
-ime_carlos = 'Botafogo'
+time_carlos = 'Botafogo'
 time_luciano = 'Flamengo'
 time_fabricia = 'Botafogo'
 
